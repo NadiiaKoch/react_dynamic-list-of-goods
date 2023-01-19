@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAAA,KACE,YAAA,CACA,YAAA,CACA,sBAAA,CAGF,GACE,iBAAA,CAGF,QACE,iBAAA","file":"main.bee1fdc4.chunk.css","sourcesContent":["body {\n  height: 100vh;\n  display: flex;\n  justify-content: center;\n}\n\nh1 {\n  text-align: center;\n}\n\n.button {\n  margin-right: 10px;\n}\n"]}
